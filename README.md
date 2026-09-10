@@ -1,4 +1,4 @@
-ÿþï»¿# DSA Problem Solving
+ï¿½ï¿½ï»¿# DSA Problem Solving
 
 A structured collection of my **Data Structures and Algorithms** problem-solving journey.
 
@@ -225,4 +225,4 @@ More platforms may be added in the future.
 Started: 2026
 Language: Python
 Focus: Data Structures & Algorithms
-```
+```
