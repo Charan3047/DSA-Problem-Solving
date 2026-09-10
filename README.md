@@ -101,7 +101,7 @@ The repository is organized by problem-solving patterns and data structures.
 
 |   # | Problem                                                              | Technique    | Difficulty |
 | --: | -------------------------------------------------------------------- | ------------ | ---------- |
-| 167 | [Two Sum II - Input Array Is Sorted](./Arrays/167-Two-Sum-II/) | Two Pointers | Medium     |
+| 167 | [Two Sum II - Input Array Is Sorted](Arrays/167-Two_Sum_II) | Two Pointers | Medium     |
 
 ---
 
