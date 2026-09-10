@@ -1,4 +1,4 @@
-#﻿# DSA Problem Solving
+## DSA Problem Solving
 
 A structured collection of my **Data Structures and Algorithms** problem-solving journey.
 
