@@ -1,4 +1,4 @@
-��﻿# DSA Problem Solving
+#﻿# DSA Problem Solving
 
 A structured collection of my **Data Structures and Algorithms** problem-solving journey.
 
@@ -23,8 +23,8 @@ Each problem follows a consistent three-file structure:
 
 ```text
 Problem/
-├── Question.md
 ├── Answer.md
+├── Question.md
 └── Solution.py
 ```
 
