@@ -1,50 +1,5 @@
 # LeetCode 15 — 3Sum
 
-## Solution
-
-```python
-class Solution(object):
-    def threeSum(self, nums):
-        n = len(nums)
-        res = []
-
-        a = sorted(nums)
-
-        for i in range(n - 2):
-            if i > 0 and a[i] == a[i - 1]:
-                continue
-
-            if a[i] > 0:
-                break
-
-            left = i + 1
-            right = n - 1
-            target = -a[i]
-
-            while left < right:
-                s = a[left] + a[right]
-
-                if s == target:
-                    res.append([a[i], a[left], a[right]])
-
-                    left += 1
-                    right -= 1
-
-                    while left < right and a[left] == a[left - 1]:
-                        left += 1
-
-                    while left < right and a[right] == a[right + 1]:
-                        right -= 1
-
-                elif s < target:
-                    left += 1
-
-                else:
-                    right -= 1
-
-        return res
-```
-
 ## Explanation
 
 First, sort the array.
