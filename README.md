@@ -101,9 +101,9 @@ The repository is organized by problem-solving patterns and data structures.
 
 |   # | Problem                                                              | Technique    | Difficulty |
 | --: | -------------------------------------------------------------------- | ------------ | ---------- |
-| 26 | [Remove_Duplicates_From_a_Sorted_Array](Arrays/26-Remove_Duplicates_From_a_Sorted_Array| Two Pointers | Easy     |
+| 26 | [Remove_Duplicates_From_a_Sorted_Array](Arrays/26-Remove_Duplicates_From_a_Sorted_Array)| Two Pointers | Easy     |
 | 167 | [Two Sum II - Input Array Is Sorted](Arrays/167-Two_Sum_II) | Two Pointers | Medium     |
-| 977 | [Squares_of_a_Sorted_Array](Arrays/977-Squares_of_a_Sorted_Array| Two Pointers | Easy     |
+| 977 | [Squares_of_a_Sorted_Array](Arrays/977-Squares_of_a_Sorted_Array)| Two Pointers | Easy     |
 
 ---
 
