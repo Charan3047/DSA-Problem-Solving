@@ -87,7 +87,7 @@ The repository is organized by problem-solving patterns and data structures.
 
 | Metric           |      Count |
 | ---------------- | ---------: |
-| Problems Solved  |      **3** |
+| Problems Solved  |      **4** |
 | Topics Covered   |      **1** |
 | Primary Language | **Python** |
 
@@ -101,6 +101,7 @@ The repository is organized by problem-solving patterns and data structures.
 
 |   # | Problem                                                              | Technique    | Difficulty |
 | --: | -------------------------------------------------------------------- | ------------ | ---------- |
+| 15 | [3Sum](Arrays/15-3Sum)| Two Pointers | Easy     |
 | 26 | [Remove_Duplicates_From_a_Sorted_Array](Arrays/26-Remove_Duplicates_From_a_Sorted_Array)| Two Pointers | Easy     |
 | 167 | [Two Sum II - Input Array Is Sorted](Arrays/167-Two_Sum_II) | Two Pointers | Medium     |
 | 977 | [Squares_of_a_Sorted_Array](Arrays/977-Squares_of_a_Sorted_Array)| Two Pointers | Easy     |
