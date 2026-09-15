@@ -1,6 +1,7 @@
 # LeetCode 977 — Squares of a Sorted Array
 
-```## Explanation
+
+## Explanation
 
 The input array is already sorted, but squaring the numbers can destroy that ordering.
 
