@@ -17,4 +17,4 @@ class Solution(object):
 
         sorted_freq = sorted(frequency, key=lambda num: frequency[num], reverse=True)
         
-        return res[:k]
+        return sorted_freq[:k]
