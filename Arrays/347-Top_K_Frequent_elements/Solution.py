@@ -6,12 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         frequency = {}
-<<<<<<< HEAD
 
-=======
-        
->>>>>>> f392afc9619f052e7161716ff5a698e7bb78b3e3
-for num in nums:
+        for num in nums:
             if num not in frequency:
                 frequency[num] = 1
 
@@ -20,8 +16,5 @@ for num in nums:
 
         sorted_freq = sorted(frequency, key=lambda num: frequency[num], reverse=True)
         
-<<<<<<< HEAD
+
         return sorted_freq[:k]
-=======
-        return sorted_freq[:k]
->>>>>>> f392afc9619f052e7161716ff5a698e7bb78b3e3
