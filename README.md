@@ -106,8 +106,8 @@ The repository is organized by problem-solving patterns and data structures.
 |---:|---|---|---|
 | 136 | [Single Number](Arrays/136-Single_number/) | Hash Map / Frequency Counting | Easy |
 | 169 | [Majority Element](Arrays/Majority-Element/) | Hash Map / Frequency Counting | Easy |
-| 217 | [Contains Duplicate](Arrays/217-Contains_Duplicate/) | Hash Set / Duplicate Detection | Easy |
-| 347 | [Top K Frequent Elements](Arrays/347-Top_K_Frequent_Elements/) | Hash Map + Sorting | Medium |
+| 217 | [Contains Duplicate](Arrays/217-Contains_duplicates/) | Hash Set / Duplicate Detection | Easy |
+| 347 | [Top K Frequent Elements](Arrays/347-Top_K_Frequent_elements/) | Hash Map + Sorting | Medium |
 
 ---
 
