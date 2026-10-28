@@ -9,7 +9,7 @@ class Solution(object):
         res = []
 
         for num in nums:
-            if num not in s_:
+            if num not in frequency:
                 frequency[num] = 1
 
             else:
