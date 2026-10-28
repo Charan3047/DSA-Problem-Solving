@@ -5,20 +5,16 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        s_ = {}
-        c = 0
+        frequency = {}
         res = []
 
         for num in nums:
             if num not in s_:
-                s_[num] = 1
+                frequency[num] = 1
 
             else:
-                s_[num] += 1
+                frequency[num] += 1
 
-        s_ = sorted(s_, key=lambda num: s_[num], reverse=True)
-        for num in s_:
-            if len(res) != k:
-                res.append(num)
-
-        return res
+        sorted_freq = sorted(frequency, key=lambda num: frequency[num], reverse=True)
+        
+        return res[:k]
