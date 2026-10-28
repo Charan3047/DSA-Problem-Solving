@@ -6,8 +6,7 @@ class Solution(object):
         :rtype: List[int]
         """
         frequency = {}
-        res = []
-
+        
         for num in nums:
             if num not in frequency:
                 frequency[num] = 1
